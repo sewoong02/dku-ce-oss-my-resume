@@ -65,14 +65,18 @@
 
 ### 목표
 
-- 팀의 윤활유 역할을 수행하며 동료의 어려움을 좌시하지 않고 저의 일처럼 도와서 긍정적인 시너지를 만들고 싶습니다.
+- 팀의 윤활유 역할을 수행하며 팀원의 어려움을 좌시하지 않고 저의 일처럼 도와서 긍정적인 시너지를 만들고 싶습니다.
 - 주어진 일에 책임감 있게 해내는 그런 게임 개발자가 되고 싶습니다.
 
 ## **Tech stack**
 
-Unity, C, C#, C++, Notion, Figma, Github
-
-
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-F2F2F2?style=for-the-badge&logo=notion&logoColor=black)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## Project
 
@@ -80,7 +84,8 @@ Unity, C, C#, C++, Notion, Figma, Github
 
 유니티 입문을 목적으로 골드메탈의 2d 뱀서류 게임 에셋을 활용하여 제작한 간단한 탄막 피하기 게임입니다.
 
-사용 기술: Unity 3D, c# 
+사용 기술: ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 
 역할 및 성과:
 
@@ -93,7 +98,8 @@ Unity, C, C#, C++, Notion, Figma, Github
 
 간단한 스토리 기반의 어드벤처 게임으로 자원을 수집하고 모은 자원을 통해 엔딩으로 나아가는 게임입니다.
 
-사용 기술: Unity 3D, c# 
+사용 기술: ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 
 역할 및 성과:
 
@@ -114,3 +120,7 @@ Unity, C, C#, C++, Notion, Figma, Github
 | 개발/보안 중앙동아리 Aegis 운영진 | 2024년 12월 - 현재 | **- 테크톡 2회 참여** : Unity의 최적화 기법인 **오브젝트 풀링**과 **코루틴**에 대해서 발표<br />**- Mini Project 경연대회 기획 및 진행** : 개발에 익숙치않은 저학년 학부생을 위해 학교 선배님들의 멘토링과 함께 사이드 프로젝트를 만드는 프로그램을 기획 및 진행중 (2025년 2학기 동아리 인원의 10%에 해당하는 7명이 참여함) <br />**- 해커톤(Easython) 개최 :** 초보 개발자들을 위한 해커톤으로 SW중심대학사업단의 후원을 받아 진행중<br />- 매 학기 C언어를 가르치는 **스터디**를 열어 1학년과 복학생 후배들에게 도움이 되고자 함 |
 | Aegis 코드클럽 관리자 | 2025년 3월 - 현재 | 대지중학교 관계자분과 협의하여 학생들에게 총 7주간 진행하는 **코딩 봉사활동**을 매 학기 진행 |
 | 컴투스 멘토링 스쿨 | 2025년 11월 20일 - 11월 21일(예정) | 다음 주에 **게임 클라이언트 개발**과 **게임 기획**에 대한 세션에 참여하여 현업자분들과 멘토링을 진행할 예정입니다. |
+
+## Backjon
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wave42)](https://solved.ac/wave42)
